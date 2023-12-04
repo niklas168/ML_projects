@@ -1,1 +1,0 @@
-Sie finden das Data Set [hier](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
